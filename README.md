@@ -1,11 +1,11 @@
 # Project Cars - Modification Configurator
 Simple modification configurator for Project Cars.
 
-##Usage
+## Usage
 Put the application in the 'Modifications' folder within the vehicles mods files.
 Whithin the modifications vehicle folder create a file called modifications.xml, which is the configuration file for the car.
 
-##Example modifications.xml
+## Example modifications.xml
 ```<?xml version="1.0"?>
 <Modifications vehicleName="Koenigsegg Regera">
     <Type name="TYPE">
@@ -27,3 +27,6 @@ Whithin the modifications vehicle folder create a file called modifications.xml,
         </Part>
     </Type>
 </Modifications>
+```
+## Download
+Latest version available: [here](https://github.com/EvertW/Project-Cars-Modification-Configurator/releases)
